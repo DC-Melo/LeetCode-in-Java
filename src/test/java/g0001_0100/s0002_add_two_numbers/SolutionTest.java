@@ -1,4 +1,4 @@
-package s0002_add_two_numbers;
+package g0001_0100.s0002_add_two_numbers;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
