@@ -11,11 +11,6 @@ public class Solution {
 
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
-    System.out.println("=============");
-    System.out.println(l1.toString());
-    System.out.println(l2.toString());
-    System.out.println("=============");
-
     ListNode head = new ListNode(0);
     ListNode cur = head;
     ListNode cur1 = l1;
